@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @Jinuk-Lee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+###
 
-<!---
-Jinuk-Lee/Jinuk-Lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Ing
+<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
-![Jinuk-Lee's github stats](https://github-readme-stats.vercel.app/api?username=Jinuk-Lee&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinuk-Lee&layout=compact&theme=dark)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinuk-Lee&count_bg=%23000000&title_bg=%23555555&icon=darkreader.svg&icon_color=%23E7E7E7&title=caller&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Jinuk-Lee's github stats](https://github-readme-stats.vercel.app/api?username=Jinuk-Lee&hide=contribs,prs) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinuk-Lee&layout=compact)
  </div>
