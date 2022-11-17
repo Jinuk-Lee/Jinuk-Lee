@@ -1,15 +1,12 @@
 
-
-
-### Daily
+### 📅 Daily
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Webstorm-29ABE2?style=flat-square&logo=WebStorm&logoColor=white"/></a>
 
 
-<br>
 
-### Ing
+### ✏️ ~Ing
 <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
